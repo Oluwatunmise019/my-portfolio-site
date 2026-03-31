@@ -28,13 +28,13 @@ Welcome to my personal portfolio website! This project showcases my cloud engine
 
 ## 📁 Repository Structure
 .
-├── assets/                # Images, badges, and other assets
+├── assets/     # Images, badges, and other assets
 ├── .github/
-│   └── workflows/
-│       └── deploy.yml     # GitHub Actions CI/CD workflow
-├── index.html             # Main landing page
-├── script.js              # JavaScript interactivity
-└── style.css              # Styling for portfolio
+│  └── workflows/
+│  └── deploy.yml # GitHub Actions CI/CD workflow
+├── index.html    # Main landing page
+├── script.j      # JavaScript interactivity
+└── style.css     # Styling for portfolio
 
 ## 🔒 Security & Best Practices
 
